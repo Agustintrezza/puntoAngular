@@ -1,0 +1,16 @@
+.logo-angular {
+    font-size: 40px;
+    color: #da3135;
+    display: flex;
+    align-items: center;
+}
+.logo-gcba {
+    width: 120px;
+    height: 50px;
+}
+.contenedor-header {
+    border-bottom: 1px solid rgb(230, 230, 230);
+    -webkit-box-shadow: 0px 2px 3px 1px rgba(224,224,224,1);
+    -moz-box-shadow: 0px 2px 3px 1px rgba(224,224,224,1);
+    box-shadow: 0px 2px 3px 1px rgba(224,224,224,1);
+}
